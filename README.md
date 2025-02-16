@@ -73,3 +73,5 @@ To run the web panel for editing JSON files and controlling the bot:
 4. Open your web browser and go to `http://127.0.0.1:5000` to access the web panel.
 
 5. Use the web panel to start and stop the bot, and to edit the JSON configuration files.
+
+6. deuland
